@@ -1,0 +1,8 @@
+Customer Name,Product Purchased,Quantity,Sale Price,Purchase Date
+Joe,Laptop,1.0,1000.0,2024-01-01
+Amy,Phone,2.0,700.0,2024-02-15
+Zara, Laptop,,1000.0,
+,Phone,1.0,700.0,
+Mike,,3.0,,2024-04-10
+Sophie,Tablet,2.0,450.0,2024-05-15
+John,Phone,1.0,700.0,2024-06-03
